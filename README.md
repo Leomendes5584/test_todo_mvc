@@ -1,22 +1,30 @@
 # Automação de Lista de Tarefas
 
-## Projeto
+## 📩 Projeto
 Este projeto consiste em uma automação de teste construído em Python utilizando o Behave e o Selenium para interagir com um aplicativo de lista de tarefas web. 
 
-## Pré-requisitos
+## 🔦 Pré-requisitos
 ### Certifique-se de ter as seguintes dependências instaladas:
 Python 3.x <br/>
 Behave <br/>
 Selenium <br/>
 
-## Instalação
+## 🔨 Processo de criação
+Como forma de boas práticas e organização do sistema, foram criadas as pastas separadamente para cada função
+
+DB (Manipulação do banco de dados)
+env (Ambiente virtual)
+main.py (Arquivo base de execução)
+requirements.txt (Arquivo com as necessidades de instalação)
+
+## ✔️ Instalação
 pip install behave selenium <br/>
 
-## Utilização
+## ✔️ Utilização
 Execute o arquivo de teste: behave <br/>
 Isso executará todos os cenários de teste definidos no arquivo todo.feature <br/>
 
-## Cenários de Teste
+## 🗄️ Cenários de Teste
 Adicionar um item à lista de tarefas e marcá-lo como concluído <br/>
 
 Este cenário automatiza a ação de adicionar itens na lista de tarefas e marcar-los como concluído. <br/>
