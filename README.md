@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma automação de teste utilizando o Behave e o Selenium para interagir com um aplicativo de lista de tarefas web.
 
-Pré-requisitos
+##Pré -requesitos
 Certifique-se de ter as seguintes dependências instaladas:
 
 Python 3.x
