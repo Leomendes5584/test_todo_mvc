@@ -5,8 +5,8 @@ Este projeto consiste em uma automação de teste construído em Python utilizan
 
 ## 🔦 Pré-requisitos
 ### Certifique-se de ter as seguintes dependências instaladas:
-Python 3.x <br/>
-Behave <br/>
+Python 3.11.3 <br/>
+Behave 1.2.6 <br/>
 Selenium <br/>
 
 ## 🔨 Processo de criação
